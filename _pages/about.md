@@ -8,43 +8,186 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) in [SUSTech](https://sustech.edu.cn/en/), whose supervisor is Prof. [Jianguo Zhang](https://www.sustech.edu.cn/zh/faculties/zhangjianguo.html). He is a member in [CVIP Group](https://faculty.sustech.edu.cn/zhangjg) and his research is mainly focus on artificial intelligence and machine learning.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- 🔭 I’m currently working on Professional Courses
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- 🌱 I’m currently learning Machine Learning (Follow [Mu Li](https://space.bilibili.com/1567748478)'s steps)
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- 👨‍💻 All of my projects are available at [Maystern's repo](https://github.com/Maystern?tab=repositories)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- 📝 I regularly write articles on [Maystern's ZhiHu](https://www.zhihu.com/people/hhh-40-88-74) and [Maystern's Blog](https://maystern.github.io)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- 📫 How to reach me https://mr.jiachengluo@gmail.com
 
-**Markdown generator**
+![Maystern's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maystern&show_icons=true&count_private=true)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+![Maystern's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maystern&layout=compact)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+#### Research Area
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- Artificial Intelligence
+  - Few-shot Learning
+  - Multimodal Deep Learning
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+#### Professional Course Performance
+
+<details>
+  <summary>CS102A Introduction to Computer Programming A: <code>Final</code> 94  <code>Grade</code> A  <code>GPA</code> 3.94 / 4.00 </summary>
+  <p><ul>
+<li><code>Attendence</code> 8 / 10</li>
+<li><code>Assignment</code> 530 / 500 (30 / 30 bonus for excellent bonus-exercise performance)</li>
+<li><code>Project: Othello</code> 110 / 100 (10 / 10 bonus for excellent lecture performance)</li>
+<li><code>Exam</code> 79 / 100</li>
+<li><code>Final</code> 94  <code>Grade</code> A  <code>GPA</code> 3.94 / 4.00</li>
+</ul>
+</li>
+</ul>
+</p>
+</details>
+
+<details>
+  <summary>CS106 Introduction to Cognitive Science: <code>Final</code> 90  <code>Grade</code> A-  <code>GPA</code> 3.85 / 4.00 </summary>
+  <p><ul>
+<li><code>Class Performance</code> 8 / 10</li>
+<li><code>Course Frontier Discussion Report</code> 17 / 20</li>
+<li><code>Project: Peer Learning Survey</code> 47 / 50</li>
+<li><code>Final Exam：Take Home Essay</code>  18 / 20</li>
+<li><code>Final</code> 90  <code>Grade</code> A-  <code>GPA</code> 3.85 / 4.00</li>
+</ul>
+</p>
+</details>
+<details>
+  <summary>CS105 Lab of Introduction to Cognitive Science: <code>Final</code> 90  <code>Grade</code> Pass (because of PF course)</summary>
+  <p><ul>
+<li><code>Attendance</code> 17 / 20</li>
+<li><code>Homework</code> 26 / 30</li>
+<li><code>Project: Peer Learning Survey</code> 47 / 50</li>
+<li><code>Final</code> 90  <code>Grade</code> Pass (because of PF course)</li>
+</ul>
+</p>
+</details>
+<details>
+  <summary> CS207 Digital Logic: <code>Final</code> 98  <code>Grade</code> A+ <code>GPA</code> 4.00 / 4.00 </summary>
+  <p><ul>
+<li><code>Attendance in Labs</code> 5 / 5, <code>Attendance in Lectures</code> 5 / 5</li>
+<li><code>Assignment</code> 99.75 / 100</li>
+<li><code>Project: A Real Car</code> 27 / 20 (8 / 8 bonus for excellent performance)</li>
+<li><code>Mid-Exam</code> 69.5 / 100</li>
+<li><code>Final-Exam</code> 83 / 100</li>
+<li><code>Final</code> 98  <code>Grade</code> A+ <code>GPA</code> 4.00 / 4.00</li>
+</ul>
+</p>
+</details>
+
+<details>
+  <summary>CS307 Database Principle: <code>Final</code> 95  <code>Grade</code> A <code>GPA</code> 3.94 / 4.00 </summary>
+  <p><ul>
+<li><code>Attendance</code> 10 / 10</li>
+<li><code>Assignment</code> 100 / 100</li>
+<li><code>Project: SUSTC</code> 103 / 100 (no bonus here)</li>
+<li><code>Exam</code> 82 / 100</li>
+<li><code>Final</code> 95  <code>Grade</code> A <code>GPA</code> 3.94 / 4.00</li>
+</ul>
+</p>
+</details>
+
+
+<details>
+  <summary>CS205 C/CPP Design: <code>Final</code> 88  <code>Grade</code> B+ <code>GPA</code> 3.73 / 4.00 </summary>
+  <p><ul>
+<li><code>Lecture Exercise</code> 98.3 / 100</li>
+<li><code>Lab Exercise</code> 100 / 100</li>
+<li><code>Project: Average score of 5 Projects</code> 92.6 / 100</li>
+<li><code>Exam</code> 70 / 100</li>
+<li><code>Final</code> 88  <code>Grade</code> B+ <code>GPA</code> 3.73 / 4.00</li>
+</ul>
+</p>
+</details>
+<details>
+  <summary>CS203 Data Structure and Algorithm Analysis: <code>Final</code> 89  <code>Grade</code> B+ <code>GPA</code> 3.73 / 4.00 </summary>
+  <p><ul>
+<li><code>Attendance</code> 100 / 100</li>
+<li><code>Lab Exercise</code> 100 / 100</li>
+<li><code>Quiz1</code> 59 / 100</li>
+<li><code>Quiz2</code> 100 / 100</li>
+<li><code>Mid-Exam</code> 85 / 100</li>
+<li><code>Final-Exam</code> 80 / 100</li>
+<li><code>Bonus</code> +2</li>
+<li><code>Final</code> 89  <code>Grade</code> B+ <code>GPA</code> 3.73 / 4.00</li>
+</ul>
+</p>
+</details>
+<details>
+  <summary>CS209A Computer System Design and Applications A: <code>Final</code> 96  <code>Grade</code> A <code>GPA</code> 3.94 / 4.00 </summary>
+  <p><ul>
+  <li><code>Quiz1</code> 6 / 7	<code>Quiz2</code>	8 / 8	<code>Quiz3</code>	10 / 10</li><li><code>Assignment1</code> 100 / 100 <code>Assignment2</code> 112 / 100 </li><li><code>Standardization</code> 4 / 4</li><li><code>Lab</code> 16 / 15</li><li><code>project</code> 99.5 / 100 （+ bous <code>1.8 / 2.0</code>)</li><li><code>Final-Exam</code> 73.5 /100</li><li><code>Final</code> 96  <code>Grade</code> A <code>GPA</code> 3.94 / 4.00</li></ul>
+</details>
+
+
+
+<!--
+这是一段
+多行注释。
+- CS102A Introduction to Computer Programming A
+  - `Attendence` 8 / 10
+  - `Assignment` 530 / 500 (30 / 30 bonus for excellent bonus-exercise performance)
+  - `Project: Othello` 110 / 100 (10 / 10 bonus for excellent lecture performance)
+  - `Exam` 79 / 100
+  - `Final` 94  `Grade` A  `GPA` 3.94 / 4.00
+- CS106 Introduction to Cognitive Science
+  - `Class Performance` 8 / 10
+  - `Course Frontier Discussion Report` 17 / 20
+  - `Project: Peer Learning Survey` 47 / 50
+  - `Final Exam：Take Home Essay`  18 / 20
+  - `Final` 90  `Grade` A-  `GPA` 3.85 / 4.00
+- CS105 Lab of Introduction to Cognitive Science
+  - `Attendance` 17 / 20
+  - `Homework` 26 / 30
+  - `Project: Peer Learning Survey` 47 / 50
+  - `Final` 90  `Grade` Pass (because of PF course)
+- CS207 Digital Logic
+  - `Attendance in Labs` 5 / 5, `Attendance in Lectures` 5 / 5
+  - `Assignment` 99.75 / 100
+  - `Project: A Real Car` 27 / 20 (8 / 8 bonus for excellent performance)
+  - `Mid-Exam` 69.5 / 100
+  - `Final-Exam` 83 / 100
+  - `Final` 98  `Grade` A+ `GPA` 4.00 / 4.00
+- CS307 Database Principle
+  - `Attendance` 10 / 10
+  - `Assignment` 100 / 100
+  - `Project: SUSTC` 103 / 100 (no bonus here)
+  - `Exam` 82 / 100
+  - `Final` 95  `Grade` A `GPA` 3.94 / 4.00
+- CS205 C/CPP Design
+  - `Lecture Exercise` 98.3 / 100
+  - `Lab Exercise` 100 / 100
+  - `Project: Average score of 5 Projects` 92.6 / 100
+  - `Exam` 70 / 100
+  - `Final` 88  `Grade` B+ `GPA` 3.73 / 4.00
+ - CS203 Data Structure and Algorithm Analysis
+  - `Attendance` 100 / 100
+  - `Lab Exercise` 100 / 100
+  - `Quiz1` 59 / 100
+  - `Quiz2` 100 / 100
+  - `Mid-Exam` 85 / 100
+  - `Final-Exam` 80 / 100
+  - `Bonus` +2
+  - `Final` 89  `Grade` B+ `GPA` 3.73 / 4.00
+ - CS209A Computer System Design and Applications A
+  - `Quiz1` 6 / 7	`Quiz2`	8 / 8	`Quiz3`	10 / 10
+  - `Assignment1` 100 / 100 `Assignment2` 112 / 100 
+  - `Standardization` 4 / 4
+  - `Lab` 16 / 15
+  - `project` 99.5 / 100 （+ bous `1.8 / 2.0`)
+  - `Final-Exam` 73.5 /100
+  - `Final` 96  `Grade` A `GPA` 3.94 / 4.00
+-->
+#### Work Experience
+- `2021-Fall` Table Tennis Club Officer of SUSTech
+- `2022-Summer` Online Teaching Support in Western China Projects (aka "[YunDuanXiWang](https://space.bilibili.com/1142024190)" in SUSTech) Student Teacher 
+- `2022-Fall` President of the Table Tennis Club of SUSTech
+- `2023-Spring` Student Assistant of CS205 C/CPP Design
+- `2023-Fall` Student Assistant of CS201 Discrete Mathematics
+#### Awards
+- `2022-Fall` SUSTech Excellent Student Scholarship 1st Prize 
