@@ -3,10 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Study"
+    url: /study/    
 
-  - title: "TTeaching"
+  - title: "Teaching"
     url: /teaching/
     breadcrumbs: true
     
