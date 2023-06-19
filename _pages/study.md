@@ -4,7 +4,7 @@ title: "Course and Projects"
 permalink: /study/
 author_profile: true
 ---
-这里有很多的课程项目：
+so many
 
 {% include base_path %}
 
