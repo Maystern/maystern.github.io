@@ -14,7 +14,7 @@ author_profile: true
 ---
 layout: archive
 title: "Teaching"
-permalink: /teaching/
+permalink: /study/
 author_profile: true
 ---
 
