@@ -20,9 +20,6 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
 
 - 📫 How to reach me https://mr.jiachengluo@gmail.com
 
-![Maystern's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maystern&show_icons=true&count_private=true)
-
-![Maystern's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maystern&layout=compact)
 
 #### Research Area
 
@@ -183,6 +180,7 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
   - `Final-Exam` 73.5 /100
   - `Final` 96  `Grade` A `GPA` 3.94 / 4.00
 -->
+
 #### Work Experience
 - `2021-Fall` Table Tennis Club Officer of SUSTech
 - `2022-Summer` Online Teaching Support in Western China Projects (aka "[YunDuanXiWang](https://space.bilibili.com/1142024190)" in SUSTech) Student Teacher 
