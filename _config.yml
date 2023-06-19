@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "Jiacheng Luo / Homepage"
 title_separator          : "-"
-subtitie                 : "Version 1.0"
+# subtitie                 : "Version 1.0"
 name                     : &name "Jiacheng Luo"
 description              : &description "Academic homepage of Luo Jiacheng"
 url                      : https://maystern.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
