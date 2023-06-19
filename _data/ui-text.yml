@@ -98,7 +98,7 @@ fr: &DEFAULT_FR
   page                       : "Page"
   pagination_previous        : "Précédent"
   pagination_next            : "Suivant"
-  breadcrumb_home_label      : "Accueil"
+  breadcrumb_home_label      : "Maystern"
   breadcrumb_separator       : "/"
   toc_label                  : "Sur cette page"
   ext_link_label             : "Lien direct"
