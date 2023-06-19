@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Jiacheng Luo / Homepage"
+locale                   : "zh-CN"
+title                    : "罗嘉诚的学术主页"
 title_separator          : "-"
-name                     : &name "Jiacheng Luo"
+name                     : &name "罗嘉诚"
 description              : &description "personal description"
 url                      : https://maystern.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
