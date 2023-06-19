@@ -7,9 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "罗嘉诚的学术主页"
+title                    : "Jiacheng Luo / Homepage"
 title_separator          : "-"
-name                     : &name "罗嘉诚"
+subtitie                 : "Version 1.0"
+name                     : &name "Jiacheng Luo"
 description              : &description "personal description"
 url                      : https://maystern.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
