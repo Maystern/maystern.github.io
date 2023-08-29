@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Course and Projects"
+title: "Study"
 permalink: /study/
 author_profile: true
 ---
