@@ -40,5 +40,5 @@ author_profile: true
   - `2023 Spring` CS205 C/CPP Design **Student Assistant** 
   - `2022-2023` **President** of the Table Tennis Club of SUSTech
   - `Aug. 2022` **Student Teacher** of Online Teaching Support in Western China Program, [YunDuanXiWang](https://space.bilibili.com/1142024190) 
-  - `2022-2023` Volunteer Service Time of **72.5** Hours for Shenzhen's Support Services 
+  - `2022-2023` Volunteer Service Time of **72.5 Hours** for Shenzhen's Support Services 
 
