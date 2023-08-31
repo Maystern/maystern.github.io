@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Study"
-permalink: /study/
+title: "Awards"
+permalink: /awards/
 author_profile: true
 ---
 
