@@ -25,7 +25,7 @@ author_profile: true
   -  `2022,2023` **Champions** of Dream Cup Table Tennis of SUSTech
   - `May. 2023` **3rd place** in the SUSTech Cup Football Competition
   - `Nov. 2021` **3rd place** in the Men's Long Jump at the SUSTech Sports Meeting (Undergraduate Group)
-  - `Oct. 2021` **Champions** of Freshman Football Cup of SUSTech.
+  - `Oct. 2021` **Champions** of Freshman Football Cup of SUSTech
   - `Sep. 2021` **5th Place** in Men's Singles at the SUSTech's Freshman Ping-Pong Tournament
 
 ## Honors
